@@ -1,0 +1,80 @@
+body {
+    background:URL(greengradient.png) no-repeat fixed center;
+    background-size:cover;
+   
+}
+
+section { background-color:ffffff;
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 50px;
+    border: 13px #ceab49;
+    border-style:groove;
+   
+}
+
+.logo {
+        text-align: center;
+        max-width: 800px;
+        margin-right: inherit; 
+        padding: ;
+        
+
+}
+
+.name {
+    font-family: "Didot";
+    font-size: 25pt;
+    color:#1e1f1e;
+    text-align: center;
+    letter-spacing: 1px;
+    
+}
+
+.title, h1 {
+    font-family: "Didot";
+    font-size: 15pt;
+    color:#5e635f;
+    text-align: center;
+}
+
+a, .info, .school, .work {
+     font-family: "Didot";
+    font-size: 12pt;
+    color:#5e635f;
+    text-align: center;
+}
+
+}
+.name, .title {
+    line-height: 1px;
+}
+
+a, .info {
+    line-height: ;
+    padding-bottom: 15px;
+}
+
+a:hover {
+    color:green;
+}
+
+.respad {
+    margin: auto;
+    margin-top: 150px;
+    padding:inherit;
+}
+
+.back {
+    background-color: black;
+    color:white;
+    padding: 8px;
+    font-family:"Didot";
+    text-align: center;
+}
+
+.reslogo {
+    position: absolute;
+    
+}
