@@ -1,0 +1,83 @@
+body{
+    background:URL(gray-wallpaper.jpg) no-repeat fixed center;
+    background-size:cover;
+}
+
+h3 {
+    font-family: "Didot";
+    text-transform: uppercase;
+    font-size: px;
+}
+
+p, li {
+    color:#b0b0b0;
+    font-family:"Verdana";
+    text-indent: 30px;
+}
+
+.agree { color:#b0b0b0;
+    font-family:"Verdana";
+    text-indent:0px;
+}
+
+a, form {
+    color:#b0b0b0;
+    font-family:"Avenir";
+    font-size: 14px;
+}
+
+a:hover {
+    color:#f5e908;
+} 
+
+figcaption {
+    color:#b0b0b0;
+    font-family:"Verdana";
+    font-style:italic;
+    font-size: 10pt;
+}
+
+footer {
+    color:blue;
+    font-size: 14px;
+    text-shadow: 1px 1px red;
+}
+
+.images {
+    text-align:center;
+}
+.text1
+ {
+  font-size: 25px;
+  font-weight:700;
+  background: -webkit-linear-gradient(left, #F00, #f7cf08,#60a314,#1980e0, #9b08f7 25%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ letter-spacing: 2px;
+ }
+
+input[type=submit] {
+    background-color: black;
+    color:white;
+    padding: 8px;
+}
+
+input[type=text] {
+    background-color: white;
+    color:black;
+    border:solid 1px gray;
+    padding: 10px;
+    font-size: 15px
+}
+
+
+.container {
+    background-color:#ffffff;
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+    border: 18px solid;
+  -webkit-border-image: -webkit-linear-gradient(top, #F00, #f7cf08,#60a314,#1980e0, #9b08f7);
+  border-image-slice: 1;
+    
+}
