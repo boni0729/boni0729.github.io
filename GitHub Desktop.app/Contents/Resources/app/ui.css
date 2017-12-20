@@ -1047,6 +1047,14 @@ button {
 .menu-pane {
   height: 100%;
   width: 240px; }
+  .menu-pane.menu-pane-branch {
+    width: 275px; }
+  .menu-pane.menu-pane-edit {
+    width: 175px; }
+  .menu-pane.menu-pane-help {
+    width: 220px; }
+  .menu-pane.menu-pane-file {
+    width: 200px; }
   .menu-pane:not(:first-child) {
     border-left: var(--base-border); }
   .menu-pane:not(:last-child) .list-item.selected {
@@ -1452,9 +1460,15 @@ body.platform-win32 .list {
     .repository-list .repository-list-item .name {
       overflow: hidden;
       text-overflow: ellipsis;
-      white-space: nowrap; }
+      white-space: nowrap;
+      /* Used to highlight substring matches in filtered lists */ }
       .repository-list .repository-list-item .name .prefix {
         color: var(--text-tertiary-color); }
+      .repository-list .repository-list-item .name mark {
+        font-weight: bold;
+        /* Reset browser defaults */
+        background-color: inherit;
+        color: currentColor; }
   .repository-list .sidebar-message {
     display: flex;
     flex: 1;
@@ -2717,7 +2731,13 @@ progress {
     text-overflow: ellipsis;
     white-space: nowrap;
     max-width: 65%;
-    margin-right: var(--spacing-half); }
+    margin-right: var(--spacing-half);
+    /* Used to highlight substring matches in filtered lists */ }
+    .branches-list-item .name mark {
+      font-weight: bold;
+      /* Reset browser defaults */
+      background-color: inherit;
+      color: currentColor; }
   .branches-list-item .description {
     margin-right: var(--spacing-half);
     color: var(--text-secondary-color);

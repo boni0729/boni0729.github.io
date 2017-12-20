@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/app/cli.js.map</key>
 		<data>
-		gAIkaLpz8efePVbtHM1/6al5LzI=
+		88CkvACHAbsGzH3feLW3jh/w/ZY=
 		</data>
 		<key>Resources/app/crash.css</key>
 		<data>
@@ -3506,11 +3506,11 @@
 		</data>
 		<key>Resources/app/git/bin/git</key>
 		<data>
-		gdPXTahrL79+ViRnRe1c5YhdJEE=
+		sAJ8dDAjN+Bn29kCu3k9fdxuFm0=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git</key>
 		<data>
-		KWUWF81aSvbb2TWizwxXhYjwKPI=
+		r2J/ccpWN3sweA9aM0+rE2H+GL4=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-add--interactive</key>
 		<data>
@@ -3526,15 +3526,15 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-credential-cache</key>
 		<data>
-		LtXaWTFNHY1fqih8SJ2nPRXLF/Y=
+		hjL75qWQXjcWxYVTsm7AREB0RiE=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-credential-cache--daemon</key>
 		<data>
-		YA8ZlfaqMiC0BB2Fe6Vd47ofrbE=
+		VR/KHV/ZWKOTfnE4gUZ2VNAZ2qw=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-credential-store</key>
 		<data>
-		7W0sZtMUNH/DM8Ukdvm0O4iBhPo=
+		uV6OjZgzcP0qTTdXRJ+au68jZVM=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-cvsexportcommit</key>
 		<data>
@@ -3550,7 +3550,7 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-daemon</key>
 		<data>
-		gomwSuQ8gS/L+dTMKqerI6HPGE4=
+		lwuXe316dwvb4zEMct7iO52u/PE=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-difftool--helper</key>
 		<data>
@@ -3558,7 +3558,7 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-fast-import</key>
 		<data>
-		uv9NDjB24J9e+ddu7WTZ5iV1Z7w=
+		Uh85uvEpLKGUpmzAOnCfYxpPps0=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-filter-branch</key>
 		<data>
@@ -3566,19 +3566,19 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-http-backend</key>
 		<data>
-		0UsuerSxaas+VRbDEgVA1WwfBSA=
+		r1svRmUemT791owY2w3WoZnwyMw=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-http-fetch</key>
 		<data>
-		p+RuEB1uRt+45sl/3FjeV0GCKvc=
+		u570Hn8/L5b43LMcTWHvijSvWxI=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-http-push</key>
 		<data>
-		6yzvewC90K/RyRLEClkzOPIPkks=
+		Lzk/oRiVf13sYHixzw+dHxxeudM=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-imap-send</key>
 		<data>
-		AEzYdzfKq9M71KFM5YwwRbaIVrU=
+		3JFwRzPvPFoTjbsZKD2vZbVfo5s=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-instaweb</key>
 		<data>
@@ -3586,7 +3586,7 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-lfs</key>
 		<data>
-		X44mrwpIZtJlckeQrluslgKYBlM=
+		DD1ggXgcOpiLc9EEYJ1qcraquY0=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-merge-octopus</key>
 		<data>
@@ -3638,11 +3638,11 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-remote-http</key>
 		<data>
-		99fY/OsmO3R1rMXzHvw63TgWg38=
+		5M35OkNaiSQsBN2MJo3FVx8Dc1w=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-remote-testsvn</key>
 		<data>
-		rUT7cy4hbfmYXOrVteZ7dhABAD0=
+		iq4o17/UoHRRNWWOf6HnjzPd9LI=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-request-pull</key>
 		<data>
@@ -3658,7 +3658,7 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-sh-i18n--envsubst</key>
 		<data>
-		oc+mKXVxDBq039vy65v/Rc8EIrY=
+		+O7X9UkhiKrMw9sK3Rjj+FFmzCg=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-sh-setup</key>
 		<data>
@@ -3666,11 +3666,11 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-shell</key>
 		<data>
-		EEq9BBEQRbo8RXfjBvGetm0EWxk=
+		5xMAk0tVKiddislyimvT0G9oNSU=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-show-index</key>
 		<data>
-		5u+vU8xxBTUEt2xVElSI+mr2uNY=
+		2PxBw1yRkEs1il9xasdsGjbEZeQ=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-stash</key>
 		<data>
@@ -3686,7 +3686,7 @@
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-upload-pack</key>
 		<data>
-		K9k8F1JOiLAYfkjz6tzLSFZK9QU=
+		wmyeARrGtTFM8TgF1Fiple0peKo=
 		</data>
 		<key>Resources/app/git/libexec/git-core/git-web--browse</key>
 		<data>
@@ -3842,11 +3842,11 @@
 		</data>
 		<key>Resources/app/highlighter.js</key>
 		<data>
-		3lMlsdxWWfnzK1O/hYXWBBP1QSk=
+		khWWM6bl1vXS0HIA+Dwu2dfutS8=
 		</data>
 		<key>Resources/app/highlighter.js.map</key>
 		<data>
-		K7baGiH8EaN6fHrroCIsoUOGafQ=
+		ENGMUD2VptRwO1PpM455nN/xjOo=
 		</data>
 		<key>Resources/app/index.html</key>
 		<data>
@@ -3854,35 +3854,35 @@
 		</data>
 		<key>Resources/app/keytar.node</key>
 		<data>
-		y/uFec3ZggIvZhmCFL45AW+QdCQ=
+		NbpkZMUiAUtigotYEa1KV3NVdiQ=
 		</data>
 		<key>Resources/app/main</key>
 		<data>
-		RrYRnp1xJBqpiyvYpbDXslHtNrw=
+		L9eqSLrx/cHyGPeG795Oy5wwEdU=
 		</data>
 		<key>Resources/app/main.js</key>
 		<data>
-		mHR7wnIfk6WcjUA5OYqKL58ddMo=
+		xDb7JUaPpbT/5wYVSsljAxn6vQY=
 		</data>
 		<key>Resources/app/main.js.map</key>
 		<data>
-		FXx2IaVO4GoH32Qw78Rs8h7bE4g=
+		9oGg/wsBNRyrFk3A7fyCkVNzk9U=
 		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		s5u0zJMUmbFTVAlRGVh9fDUw+Kk=
+		jqbT87ZCJoaIayLiamtVkMi5xKM=
 		</data>
 		<key>Resources/app/renderer.js</key>
 		<data>
-		pW55x6gViO+flMBUuqmTeLr02gM=
+		sE1MndJQv9WJCLpzaCg++GsiRf8=
 		</data>
 		<key>Resources/app/renderer.js.map</key>
 		<data>
-		ESVeXAYoVZ2AcWK8AR2CBLMS9nA=
+		J3M8GTrzIocujCPtFTWU5yOyj68=
 		</data>
 		<key>Resources/app/runas.node</key>
 		<data>
-		j1E1K8tWiwnae1pQbZ/Z33CW8ps=
+		kZS8XUzdwv4Nr53UPkp8ru2KUQ0=
 		</data>
 		<key>Resources/app/static/ask-pass-trampoline.sh</key>
 		<data>
@@ -5166,7 +5166,7 @@
 		</data>
 		<key>Resources/app/static/licenses.json</key>
 		<data>
-		tAn8qiK4t3vPvgkzcVzY3tdEIco=
+		Lpx6VAr0wkTsnuT2WuVQYRTHqok=
 		</data>
 		<key>Resources/app/static/welcome-illustration-left-bottom.svg</key>
 		<data>
@@ -5182,7 +5182,7 @@
 		</data>
 		<key>Resources/app/ui.css</key>
 		<data>
-		DJflj/yVehNJKpQJEILFkzoTrqI=
+		E1o+jLB/zju6bTNQdg5U+Lk3HyU=
 		</data>
 		<key>Resources/app/ui.css.map</key>
 		<data>
@@ -5203,7 +5203,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			tfdyGmqHdn5yEHCdpbKnP04pCiM=
+			sOvjyOmeNIj2lL3K6iM1OkhpSfE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = VEKTX9H2N7</string>
@@ -5257,7 +5257,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			XAJGkipOD720LRJZreb0hbGhAlU=
+			u+ngxx02FHEvhzSpGnnSS2Du+WY=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = VEKTX9H2N7</string>
@@ -5299,11 +5299,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gAIkaLpz8efePVbtHM1/6al5LzI=
+			88CkvACHAbsGzH3feLW3jh/w/ZY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qt9PwRaJ/2yg0YB1rrC5smzFRU9a5ZIIb9F7QIR98b8=
+			bsHHhosSbgp/ud1XkIJG/0rIGzxmeKazQV1Dx3grst4=
 			</data>
 		</dict>
 		<key>Resources/app/crash.css</key>
@@ -14891,22 +14891,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gdPXTahrL79+ViRnRe1c5YhdJEE=
+			sAJ8dDAjN+Bn29kCu3k9fdxuFm0=
 			</data>
 			<key>hash2</key>
 			<data>
-			F65egMpzCmeNTvnU46AGfKYqfjRNlRJyT1mu010V6sg=
+			Ne+kxenVM2EHGCnYfHBcj1agnbVYuJijx4mSmGKaE7U=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KWUWF81aSvbb2TWizwxXhYjwKPI=
+			r2J/ccpWN3sweA9aM0+rE2H+GL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			QMSXbHfcXMfT8FbAQHX6v0rN6kCmfTrnvnn/Hx5KPCU=
+			3WD+2wnH5Zhd4Aj66pI4iz1m+IY4O4l5RZ/EkGNtJK8=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-add</key>
@@ -15076,33 +15076,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LtXaWTFNHY1fqih8SJ2nPRXLF/Y=
+			hjL75qWQXjcWxYVTsm7AREB0RiE=
 			</data>
 			<key>hash2</key>
 			<data>
-			e0zvIEO7H4F5MZA5ZFdbH7jGkd/WIvQlkMPuiq+CXcw=
+			9+E5yXRM9Po/xjCmLN52buWsVAYVP1pAthth+zdpdT0=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-credential-cache--daemon</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YA8ZlfaqMiC0BB2Fe6Vd47ofrbE=
+			VR/KHV/ZWKOTfnE4gUZ2VNAZ2qw=
 			</data>
 			<key>hash2</key>
 			<data>
-			y3J9FhPbssBKPJIufy9U1G5Gbs9oVk4NI40W73iXR/Q=
+			sK9ZN8B5zamVRx5gOSrGGX0LNKyBHtfh3WF3xW3dbAw=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-credential-store</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7W0sZtMUNH/DM8Ukdvm0O4iBhPo=
+			uV6OjZgzcP0qTTdXRJ+au68jZVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9QWHrMupxCcKMYQwwM9tKSEs6GsCWNJUIjmRosHVZ9A=
+			5m4w2nIUBbZjrP0S7CEuJblAdHbsa/7R4CixMMMz0ug=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-cvsexportcommit</key>
@@ -15142,11 +15142,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gomwSuQ8gS/L+dTMKqerI6HPGE4=
+			lwuXe316dwvb4zEMct7iO52u/PE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xmb+kzJLJTy4IYcAXYyklyOjUCPViKd/PnnenGuttsU=
+			Rw6pMdt5nOTeSni9L3PKjLnq9s69JdEo23Y4SGSvWF8=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-describe</key>
@@ -15199,11 +15199,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uv9NDjB24J9e+ddu7WTZ5iV1Z7w=
+			Uh85uvEpLKGUpmzAOnCfYxpPps0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OW4XvNbJvqXYRpqorYy+gf47wKh459dlAqjkvUR97Ro=
+			6oe93bNdPGm4QThJwk9UJE/wijH0hDH2VKk0E4YSREY=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-fetch</key>
@@ -15281,44 +15281,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0UsuerSxaas+VRbDEgVA1WwfBSA=
+			r1svRmUemT791owY2w3WoZnwyMw=
 			</data>
 			<key>hash2</key>
 			<data>
-			UohLB5gv3q9ET7KDVfIXsYpwDJUl6+KmjKj9Lzgtag8=
+			uXrLjmaZHiZo9O/Et8vwBFUZeHcoRa3M9QLouK3eMyA=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-http-fetch</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p+RuEB1uRt+45sl/3FjeV0GCKvc=
+			u570Hn8/L5b43LMcTWHvijSvWxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			0k9DeKrQtvC4WarTfCBG1AbQym65l7EPkEbXGtsjL+U=
+			B4i+z8I0E5tcvYo2T5yz3zWANlTsg+6HHF4T74M+PyI=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-http-push</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6yzvewC90K/RyRLEClkzOPIPkks=
+			Lzk/oRiVf13sYHixzw+dHxxeudM=
 			</data>
 			<key>hash2</key>
 			<data>
-			5VOxqRCZQAw6D287Dl5vgeIvzrzGLk1LJ/kaqXks5W0=
+			cVkbVxWcFXMi5ml92Hj09vzLiALsSFcCpWUuk1EYFyk=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-imap-send</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AEzYdzfKq9M71KFM5YwwRbaIVrU=
+			3JFwRzPvPFoTjbsZKD2vZbVfo5s=
 			</data>
 			<key>hash2</key>
 			<data>
-			EQIkx4ef4OMDtonyPdrHUkd9uCs1Xn/OoaDeDV7eVDw=
+			MS296QEZoaEPkeCWhJDd1WRG4jxwR9+IcQdA+Ifj/qk=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-index-pack</key>
@@ -15356,11 +15356,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X44mrwpIZtJlckeQrluslgKYBlM=
+			DD1ggXgcOpiLc9EEYJ1qcraquY0=
 			</data>
 			<key>hash2</key>
 			<data>
-			DV4TP1JMANxLQCSb7NMlOwxkMinK2R+dm4Zeb3zn7TI=
+			vWxr8A4MqHGnIchlKmvJg0LS9U6NIEColF88koNNt4I=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-log</key>
@@ -15679,11 +15679,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			99fY/OsmO3R1rMXzHvw63TgWg38=
+			5M35OkNaiSQsBN2MJo3FVx8Dc1w=
 			</data>
 			<key>hash2</key>
 			<data>
-			9g464Qt9QozwKAYdZM059yHjoMDpG+cpwy+MWk55CYw=
+			t1xzdVOzCo3a2gYCsHH9olqor+YO8QWLV5Ikdt7492s=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-remote-https</key>
@@ -15695,11 +15695,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rUT7cy4hbfmYXOrVteZ7dhABAD0=
+			iq4o17/UoHRRNWWOf6HnjzPd9LI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ksfNsh/ftxigqvvfG+txotpn9cA2senM5zIzv3ODio8=
+			sNcFB6ih+GTVcM5iBIfVrnDWJZ4zjAK5Wea3DTb3E7c=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-repack</key>
@@ -15784,11 +15784,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oc+mKXVxDBq039vy65v/Rc8EIrY=
+			+O7X9UkhiKrMw9sK3Rjj+FFmzCg=
 			</data>
 			<key>hash2</key>
 			<data>
-			zYmtC4xDV9wZt2y2wob/+k2AXSgc30YVj6qCBMo1TyM=
+			H9TWEM+K9rte0Ffn0oaVGgKSfNQWHudJtv32FwjlDao=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-sh-setup</key>
@@ -15806,11 +15806,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EEq9BBEQRbo8RXfjBvGetm0EWxk=
+			5xMAk0tVKiddislyimvT0G9oNSU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nThFl38Wh5RbF4wd9Lo2s90oYB7S3zosvu516npEhW4=
+			CQ17rUfn3dPbC7JyZ2Sa+WHk1kGG58HP+aIzjQaW5gQ=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-shortlog</key>
@@ -15832,11 +15832,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5u+vU8xxBTUEt2xVElSI+mr2uNY=
+			2PxBw1yRkEs1il9xasdsGjbEZeQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uhcPrulHgE36dTUAu62YDFe0mXQjlnIoUgXpuoG08IU=
+			eLd79LVxayEYwqqaLqdQCT21zksK0KYV/Th2E0ZRQTw=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-show-ref</key>
@@ -15941,11 +15941,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K9k8F1JOiLAYfkjz6tzLSFZK9QU=
+			wmyeARrGtTFM8TgF1Fiple0peKo=
 			</data>
 			<key>hash2</key>
 			<data>
-			unhTW0pA5vw0USepRfa5rZzreTYh1aNgzaKk8dog5mQ=
+			qJgKmVghjeP5BRw8CSG6SAbqgYKQEciCAF+FzY5Ehr8=
 			</data>
 		</dict>
 		<key>Resources/app/git/libexec/git-core/git-var</key>
@@ -16405,22 +16405,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3lMlsdxWWfnzK1O/hYXWBBP1QSk=
+			khWWM6bl1vXS0HIA+Dwu2dfutS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			sRZvyCMkI09FZHNy6WPeIeg/gaaTFKwPxTYoLI2zq2w=
+			sURkhGDQRcFcQOdcH+VX4IgAKsRBRYfOa/MevpfYhR8=
 			</data>
 		</dict>
 		<key>Resources/app/highlighter.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K7baGiH8EaN6fHrroCIsoUOGafQ=
+			ENGMUD2VptRwO1PpM455nN/xjOo=
 			</data>
 			<key>hash2</key>
 			<data>
-			pN6Z62s86Z6wx+/A7MQgMt0kZwxkaYlRTTErHbdrVMM=
+			+m/0wExQBRmA8j8wVkJQ6ItVIiy6kfMLXGVHVVnrQXM=
 			</data>
 		</dict>
 		<key>Resources/app/index.html</key>
@@ -16438,88 +16438,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y/uFec3ZggIvZhmCFL45AW+QdCQ=
+			NbpkZMUiAUtigotYEa1KV3NVdiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DJ9UNFrQhs0KWrKmyOjHEr6/kM+QRax0tlflDCx7uWE=
+			vYntPczfKD1cX4K9lkL6T7OVbIHwjYKR5BiFaYNHc+s=
 			</data>
 		</dict>
 		<key>Resources/app/main</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RrYRnp1xJBqpiyvYpbDXslHtNrw=
+			L9eqSLrx/cHyGPeG795Oy5wwEdU=
 			</data>
 			<key>hash2</key>
 			<data>
-			uA4X1gO7DloWTMgH1Cq51KxJ8NDA0FVuEWPjxs/C1Os=
+			oWxjBSyuK0xRFVOMvhj9qARNQBJeuC86Is4UpZRxiIs=
 			</data>
 		</dict>
 		<key>Resources/app/main.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mHR7wnIfk6WcjUA5OYqKL58ddMo=
+			xDb7JUaPpbT/5wYVSsljAxn6vQY=
 			</data>
 			<key>hash2</key>
 			<data>
-			+F1SFRBHrfXwZoOvGZQQ3IIG9FpHjIswLCU5fp0DL24=
+			vKyH4H4wm2TgUuwZLd6zbMA1xkwVJKJ9xgv1BwWLmAA=
 			</data>
 		</dict>
 		<key>Resources/app/main.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FXx2IaVO4GoH32Qw78Rs8h7bE4g=
+			9oGg/wsBNRyrFk3A7fyCkVNzk9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlpZFhZ+RJhHAl9tQilsCfgR813ai8F/0MlTmzY3LK4=
+			Mkm42AIA4s+Q6u7vAGQnPgx91/fvu1ToRil7wFFyCH8=
 			</data>
 		</dict>
 		<key>Resources/app/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s5u0zJMUmbFTVAlRGVh9fDUw+Kk=
+			jqbT87ZCJoaIayLiamtVkMi5xKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			JZoNvTYbAMQMvIaHK19Jokm91ZKPZYHrAYXIA7NkSbk=
+			aDeWZHCYAFxl9HJqJS3mtwb9gKTg/rUeqlsa13LMboQ=
 			</data>
 		</dict>
 		<key>Resources/app/renderer.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pW55x6gViO+flMBUuqmTeLr02gM=
+			sE1MndJQv9WJCLpzaCg++GsiRf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			19LiKPuF8whB9Df+91kuNHaMJGg/FIyTpl0G/IBUzzM=
+			aOqjeYttuhAp2EsNyvst/sH331TSlX+lLx2xlWJ2vxY=
 			</data>
 		</dict>
 		<key>Resources/app/renderer.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ESVeXAYoVZ2AcWK8AR2CBLMS9nA=
+			J3M8GTrzIocujCPtFTWU5yOyj68=
 			</data>
 			<key>hash2</key>
 			<data>
-			B5Tdccec4cTystA4KleNCYl3w5WvIHgd/D/g8pWoTrI=
+			ki4I+GrEO2WBLnKUwIsEfydjE1dzbyTVYdnZBcWP510=
 			</data>
 		</dict>
 		<key>Resources/app/runas.node</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j1E1K8tWiwnae1pQbZ/Z33CW8ps=
+			kZS8XUzdwv4Nr53UPkp8ru2KUQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			L0WEfVd8EIWtTiPy66OlwjUfqPTEejMVwbrhhSk6K58=
+			1y8YX6guoziUr1NZhqBYfDu192Ef18ICkrY/jOKLmSQ=
 			</data>
 		</dict>
 		<key>Resources/app/static/ask-pass-trampoline.sh</key>
@@ -20061,11 +20061,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tAn8qiK4t3vPvgkzcVzY3tdEIco=
+			Lpx6VAr0wkTsnuT2WuVQYRTHqok=
 			</data>
 			<key>hash2</key>
 			<data>
-			S2VGKD/GnOyeT6iNY8KSKTKplTWao66kckXgivjpACw=
+			9juDBUK9qxdZ0sPSlk6RFHCR7c4jqPzijbmoulYRlgM=
 			</data>
 		</dict>
 		<key>Resources/app/static/welcome-illustration-left-bottom.svg</key>
@@ -20105,11 +20105,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DJflj/yVehNJKpQJEILFkzoTrqI=
+			E1o+jLB/zju6bTNQdg5U+Lk3HyU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/4ZgFLN2G95+UiR8YM0fYWCtMHOEYVhrUtEdKsE4zUo=
+			wZGrEdS7JuMIcH82E/FGiKD2MI6TlcXH/x2IgHWyY2c=
 			</data>
 		</dict>
 		<key>Resources/app/ui.css.map</key>
